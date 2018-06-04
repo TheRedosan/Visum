@@ -27,4 +27,5 @@ public class AdaptadorViewPager extends FragmentStatePagerAdapter {
     public int getCount() {
         return 5;
     }
+
 }
